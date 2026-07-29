@@ -1,4 +1,4 @@
-# e-learning-platform-testing
+# E-learning-platform-testing
 Manual Testing project for an E-Learning Platform including Test Plan, Test Cases, Bug Report, RTM and Test Summary Report.
 
 ## Project Overview
